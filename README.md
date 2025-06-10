@@ -41,7 +41,7 @@ A lo largo del trabajo se realiza:
 - 🎥 `TPI-Algoritmos.mp4`:  
   Video explicativo del trabajo práctico.  
   Tambien se puede visualizar en el siguiente enlace: 
-🔗 [Ver video en YouTube](xxxx)
+🔗 [Ver video en YouTube](https://youtu.be/Cv_j2DzelgE)
 
 ---
 
