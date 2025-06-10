@@ -49,7 +49,7 @@ A lo largo del trabajo se realiza:
 - **Lenguaje utilizado**: [Python 3.11](https://www.python.org/downloads/release/python-3119/)
 - **IDE/Editor**: [Visual Studio Code](https://code.visualstudio.com/Download)
 - **Librerías usadas**:  
-  - `perf_counter` para medición de tiempos  
+  - `time` para medición de tiempos  
   - `random` para generar listas aleatorias  
 - **Algoritmos utilizados**:
   - **Bubble Sort**
