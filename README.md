@@ -26,21 +26,20 @@ A lo largo del trabajo se realiza:
 
 ## 📁 Contenido del repositorio
 
-- 📄 `TPI-Analisis-Algoritmos-NMacaris-MSCouchot.pdf`:  
+- 📄 `TPI-Programacion I-NMacaris-MSCouchot.pdf`:  
   Informe completo del trabajo con marco teórico, código y conclusiones.
 
 - 📄 `analisis-de-algoritmos.py`:  
   Archivo .py con el código utilizado en el trabajo práctico.
 
-- 📊 `Presentacion-Algoritmos.pptx`:  
+- 📊 `Presentacion Integrador Programacion I.pptx`:  
   Diapositivas utilizadas en el video para acompañar la exposición.
 
 - 📁 `anexos/`:  
   Carpeta con capturas de pantalla de los resultados de ejecución y código en funcionamiento.
 
-- 🎥 `TPI-Algoritmos.mp4`:  
-  Video explicativo del trabajo práctico.  
-  Tambien se puede visualizar en el siguiente enlace: 
+- 🎥 `Video explicativo del trabajo práctico`:  
+  Se puede visualizar en el siguiente enlace: 
 🔗 [Ver video en YouTube](https://youtu.be/Cv_j2DzelgE)
 
 ---
